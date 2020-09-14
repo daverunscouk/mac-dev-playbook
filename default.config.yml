@@ -38,6 +38,7 @@ homebrew_cask_apps:
   - google-chrome
   - vagrant
   - packer
+  - zoomus
   - spotify
   - visual-studio-code
 
