@@ -24,7 +24,9 @@ homebrew_installed_packages:
   - cowsay 
   - openssl
   - wget
-
+  - terraform
+  - terraform-docs
+  
 homebrew_taps:
   - homebrew/core
   - homebrew/cask
@@ -38,7 +40,7 @@ homebrew_cask_apps:
   - packer
   - spotify
   - visual-studio-code
-  
+
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []

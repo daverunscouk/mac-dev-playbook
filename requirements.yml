@@ -1,4 +1,13 @@
 ---
-- name: geerlingguy.dotfiles
-- name: geerlingguy.homebrew
-- name: geerlingguy.mas
+
+- src: https://github.com/turingbeing/dotfiles
+  version: master
+  name: turingbeing.dotfiles
+
+- src: https://github.com/turingbeing/ansible-role-homebrew
+  version: master
+  name: turingbeing.homebrew
+
+- src: https://github.com/turingbeing/ansible-role-mas
+  version: master
+  name: turingbeing.mas
