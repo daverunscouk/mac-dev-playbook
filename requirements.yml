@@ -1,6 +1,6 @@
 ---
 
-- src: https://github.com/turingbeing/dotfiles
+- src: https://github.com/turingbeing/ansible_role_dotfiles
   version: master
   name: turingbeing.dotfiles
 
