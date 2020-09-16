@@ -26,6 +26,7 @@ homebrew_installed_packages:
   - wget
   - terraform
   - terraform-docs
+  - packer
   
 homebrew_taps:
   - homebrew/core
@@ -38,7 +39,6 @@ homebrew_cask_apps:
   - firefox
   - google-chrome
   - vagrant
-  - packer
   - zoomus
   - spotify
   - visual-studio-code
