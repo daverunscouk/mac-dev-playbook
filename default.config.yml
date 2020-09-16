@@ -15,6 +15,7 @@ dotfiles_files:
   - .inputrc
   - .osx
   - .vimrc
+  - .terraform_aliases
 
 homebrew_installed_packages:
   # - ansible # Installed via Pip.
