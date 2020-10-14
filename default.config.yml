@@ -16,6 +16,7 @@ dotfiles_files:
   - .osx
   - .vimrc
   - .terraform_aliases
+  - .kubectl_aliases
 
 homebrew_installed_packages:
   # - ansible # Installed via Pip.
@@ -29,6 +30,12 @@ homebrew_installed_packages:
   - terraform-docs
   - packer
   - zsh-history-substring-search
+  - kubectl
+  - azure-cli
+  - awscli
+  - jq
+  - asciinema
+  - notable
   
 homebrew_taps:
   - homebrew/core
